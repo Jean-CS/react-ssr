@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "babel": "babel src -d views",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
